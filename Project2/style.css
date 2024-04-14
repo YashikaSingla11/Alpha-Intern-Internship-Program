@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    width: 300px;
+    margin: 0 auto;
+}
+select, input, button, p {
+    display: block;
+    margin: 5px 0;
+}
+
+button {
+    cursor: pointer;
+}
